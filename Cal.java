@@ -1,4 +1,5 @@
 package club_java;
+//import java.lang.*;
 import java.util.Scanner;
 
 // 1 lakh+ 
@@ -22,7 +23,7 @@ public class Cal {
 				System.out.println("Enter two numbers :");
 				num1 = scr.nextInt();
 				num2 = scr.nextInt();
-				System.out.println("1 -> Additon\n2 -> Subtraction \n0 -> Exit\nEnter your choice");
+				System.out.println("1 -> Additon\n2 -> Subtraction \n3 random value \n0 -> Exit\nEnter your choice");
 				int choice=scr.nextInt();
 				
 				switch(choice) {
@@ -30,6 +31,9 @@ public class Cal {
 						break;
 					case 2: System.out.println(" DIFFERENCE : "+(num1-num2));
 						break;
+					case 3: double x =Math.random();
+							System.out.println(" Your random number is : "+ (int)(x*1000000000));
+							break;
 					case 0:System.exit(0);
 					default: System.out.println("Invalid choice!!");
 				}
