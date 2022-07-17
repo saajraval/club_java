@@ -22,9 +22,13 @@ public class WhileDemo {
 //	
 //		2)12345 -> 5
 //			2 4 sum = 6
-
-
+//-------------------------------------------------------------------------
 // take a number from user and make two numbers from it 
 // num =  12345678989 
 // even_num=  24688
 // odd_num=  135799
+//-------------------------------------------------------------------------
+// Make a switch  having cases  1 -> prime in range 2-> armstrong in rage  3-> palindrome in range 
+
+// 153 = 1*1*1 + 5*5*5 + 3*3*3 -> 1 + 125 + 27 =153 
+ 
