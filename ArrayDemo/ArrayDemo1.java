@@ -21,7 +21,7 @@ public class ArrayDemo1 {
 		}//end 
 }//end of class
 
-// scan  display reverse sort 
+
 
 // 12 3 4 7 8 4 -> 6 
 //even -> 12 4 8 4 -> 4

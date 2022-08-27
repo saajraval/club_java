@@ -24,8 +24,8 @@ public class ArrayDemo2 {
 		int j=0,k=0,even[] = new int[size],odd[]=new int [size];
 		for(int i=0;i<a.length;i++) {
 			if(a[i]%2 == 0) {
-				even[j]=a[i];
-				j++;//2
+				even[j]=a[i];//[0]
+				j++;//3
 			}
 			else {
 				odd[k]=a[i];
