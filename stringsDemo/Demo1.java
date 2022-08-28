@@ -56,6 +56,5 @@ public class Demo1 {
 
 //----------------------------------------
 //1 -> Find how many character are vowel and consonant in a given string 
-//2 -> Take a string and reverse it also check whether the given string is palindrome or not
-//3-> Find if a given word is present in a given string or not 
-//4 -> "Jony jony yes papa" -> find how many times the word is being repeated  
+//2 -> Take a string and reverse it also check whether the given string is palindrome or not 
+//3-> Find if a given word is present in a given string or not -> 
